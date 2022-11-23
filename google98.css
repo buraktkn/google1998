@@ -1,0 +1,19 @@
+.body1{
+    background-color: #EEEEEE;
+    margin: 10px 180px 10px 180px;
+    width: 1200px;
+}
+.search-text{
+    text-align: center;
+}
+.input{
+    box-sizing: border-box;
+}
+a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+.input-2{
+    width: 150px;
+    height: 25px;
+}
